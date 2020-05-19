@@ -1,0 +1,101 @@
+
+
+.bigboy {
+  color: white;
+}
+.mine {
+  font-size: 28px ;
+  color: white ;
+}
+.ui {
+  color: white ;
+}
+
+p {
+    font-size: 30px;
+    font-family: 'Playfair Display', serif;
+    color: #f2f2f2;
+    text-align: center;
+}
+body {
+  background-color: gray;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+  h2 {
+    text-align: center;
+    color: #f2f2f2;
+  }
+  
+    .col-sm-4 {
+      color: white ; 
+  }
+
+  /* Add a color to the active/current link */
+  .navv a.active {
+    background-color: #4CAF50;
+    color: white;
+  }
+
+.navv {
+    background-color: #333;
+  }      
+
+  .navv a {
+    float: left;
+    color: #f2f2f2;
+    vertical-align: text-top;
+    padding: 20px 6px;
+    text-decoration: none;
+     font-size: 17px;
+  }
+  
+  /* Change the color of links on hover */
+  .navv a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:blue;
+  }
+
+  img {
+    border-radius: 10%;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 5px ;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color: skyblue;
+  }
+  .col-sm-3 {
+    display: inline-block;
+    text-align: center;
+  }
+
+  h3 {
+    text-align: center;
+    color: #f2f2f2;
+  }
+    
+    
+  
